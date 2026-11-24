@@ -1,0 +1,15 @@
+My First GitHub Project
+
+Project Name: E-commerce AI Assistant
+
+My Learning Goals:
+1. AI Product Title Generator
+2. AI Product Description Generator
+3. AI Image Processing
+4. E-commerce Automation
+
+Platform:
+GitHub
+
+Status:
+Learning
